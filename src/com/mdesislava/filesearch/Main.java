@@ -1,4 +1,4 @@
-package com.mdesislava.file_search;
+package com.mdesislava.filesearch;
 
 public class Main {
 
