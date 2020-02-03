@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3565e444-f90b-435b-a39a-49c5a44f8eca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mdesislava/filesearch/FileSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mdesislava/filesearch/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileSearch/META-INF/FileSearch.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileSearch/com/mdesislava/filesearch/FileSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileSearch/com/mdesislava/filesearch/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <updated>1580638340388</updated>
       <workItem from="1580638349148" duration="310000" />
       <workItem from="1580638861664" duration="1014000" />
-      <workItem from="1580640039020" duration="10603000" />
+      <workItem from="1580640039020" duration="10870000" />
     </task>
     <servers />
   </component>
